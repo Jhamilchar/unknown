@@ -1,0 +1,16 @@
+.logo-edit {
+    width: auto;
+    height: 135px;
+}
+
+.rounded {
+    border-radius: 50% !important;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+}
+
+.metrics {
+    width: 100% !important;
+    border-radius: 50px;
+    margin-top: -30px;
+}
