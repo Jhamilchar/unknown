@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth !important;
+  }
+
 .logo-edit {
     width: auto;
     height: 135px;
@@ -13,4 +17,9 @@
     width: 100% !important;
     border-radius: 50px;
     margin-top: -30px;
+}
+
+.background-blog {
+    width: 370px;
+    height: 330px;
 }
